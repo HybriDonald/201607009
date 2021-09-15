@@ -2,6 +2,9 @@
 # 파일명은 상관 없고, 확장자가 text면 관리X
 .test
 
+# work 무시해준다
+.work
+
 # History files
 .Rhistory
 .Rapp.history
